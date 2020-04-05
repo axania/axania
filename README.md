@@ -1,2 +1,3 @@
-# axania
-simo-project
+# maven-project
+
+Simple Maven Project
